@@ -1,0 +1,58 @@
+
+body{
+  background-color:#EAF6F6;
+}
+
+hr{
+  border-style:dotted;
+
+}
+
+img{
+
+  size:200px;
+
+}
+
+.amar-profile-img{
+  border-radius: 100%;
+}
+
+h1{
+  color:#3AB4F2;
+  font-size: 50px;
+
+}
+
+h3{
+  color:#B2A4FF;
+  font-size: 30px;
+}
+
+h4{
+  font-size: 35px;
+}
+
+h5{
+   font-size: 25px;
+}
+
+.by-word{
+  margin-left: 130px;
+}
+
+.study-hobbis-favorites-about{
+
+}
+
+.shfa-inside{
+  
+}
+
+a{
+  font-size: 25px;
+}
+
+a:hover{
+  color: #42C2FF;
+}
